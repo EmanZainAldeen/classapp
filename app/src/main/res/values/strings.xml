@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ClassApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="note">Note</string>
+    <string name="add_location">Where is this note for?</string>
+    <string name="time">Time</string>
+    <string name="is_there_anything">Is there anything else you would like to say ?</string>
+    <string name="save">Save</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
